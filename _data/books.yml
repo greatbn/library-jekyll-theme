@@ -1,29 +1,19 @@
-- title: Ready Player One
-  author: Ernest Cline
-  image: readyplayerone.jpg
-  link:
+- title: The Lean Startup
+  author: Eric Ries
+  image: the_lean_startup.png
+  link: https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898
 
-- title: The Revenant
-  author: Michael Punke
-  image: therevenant.jpg
-  link:
+- title: Zero to One
+  author: Peter Thiel
+  image: zero_to_one.jpeg
+  link: https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296
 
-- title: Wool
-  author: Hugh Howey
-  image: wool.jpg
-  link:
+- title: Effective Engineer
+  author: Edmond Lau
+  image: effective_engineer.jpeg
+  link: https://www.goodreads.com/en/book/show/25238425-the-effective-engineer
 
-- title: The Martian
-  author: Andy Weir
-  image: themartian.jpg
-  link:
-
-- title: The Man in the High Castle
-  author: Philip K Dick
-  image: themaninthehighcastle.jpg
-  link:
-
-- title: Deception Point
-  author: Dan Brown
-  image: deceptionpoint.jpg
-  link:
+- title: Rich dad Poor Dad
+  author: Robert Kiyosaki and Sharon Lechter
+  image: rich_dad_poor_dad.jpg
+  link: https://www.amazon.com/Rich-Dad-Poor-Teach-Middle-ebook/dp/B0175P82RA
